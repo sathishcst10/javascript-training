@@ -13,5 +13,8 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "temporal-polyfill": "^0.3.0"
   }
 }
